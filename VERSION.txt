@@ -1,6 +1,6 @@
-Ninh Binh Hilversum website v115
-- Original PDF menu layouts retained
-- Larger readable page-width viewer
-- Vertical scrolling for full-height pages
-- Magnifying-glass zoom + / - and percentage display
-- Price calculator opens as an overlay and no longer shrinks the menu
+Ninh Binh Hilversum website v116
+- Indicatiepaneel staat op desktop naast de menukaart en overlapt deze niet
+- Menupagina wordt automatisch opnieuw passend berekend bij openen/sluiten indicatie
+- Zoom instelbaar van 50% tot 100% in stappen van 10%
+- Vergrootglas min/max knoppen worden automatisch uitgeschakeld op de grens
+- Mobiel behoudt een uitschuifbaar indicatiepaneel

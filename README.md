@@ -21,3 +21,8 @@ No build command is required.
 - Netlify publish directory: `.`
 - GitHub Pages folder: `/ (root)`
 - Main file: `index.html`
+
+## Version 116
+
+- Desktop price calculator is docked beside the menu and no longer overlaps it.
+- Zoom range is limited to 50%-100% in 10% increments.
